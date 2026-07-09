@@ -17,7 +17,6 @@ With AI integrations, Quarto, and GitHub.
 - [AI chatbot in VS Code (GitHub Copilot, including Education license)](#ai-chatbot-in-vs-code-github-copilot-including-education-license)
 - [Sign in and enable Copilot](#sign-in-and-enable-copilot)
 - [Recommended VS Code settings](#recommended-vs-code-settings)
-- [Practical usage in this repo](#practical-usage-in-this-repo)
 
 ### GitHub
 
@@ -236,15 +235,6 @@ Notes:
 
 - Keep Copilot enabled for Markdown/Quarto files so it can help draft and edit text.
 - You can disable suggestions per language if they become noisy.
-
-## Practical usage in this repo
-
-Good prompts for this project:
-
-1. "Improve this `.qmd` explanation for beginner pharmacy students."
-2. "Suggest a more concise callout for this section."
-3. "Check this R chunk for mistakes and explain the output."
-4. "Create a glossary entry consistent with existing style."
 
 ## Safety and quality checks
 
