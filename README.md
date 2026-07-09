@@ -2,6 +2,9 @@
 
 A collection of CPDSE cheat sheets for educational purposes.
 
+## VS Code
+[VS Code Setup with Extensions](pages/vscode-setup.md).
+
 ## Git
 
 <table>
